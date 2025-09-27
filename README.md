@@ -1,5 +1,5 @@
 # Etch-A-Sketch
-A small etch a sketch-like web app I built while learning JavaScript. 
+A small etch a sketch-like web app I built in javascript
 
 ## How to use
 - Press **resize grid** to set grid size.
