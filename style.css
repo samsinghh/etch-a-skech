@@ -1,0 +1,34 @@
+#container {
+   display: flex;
+   flex-wrap: wrap;
+   border: 1px solid black;
+}
+
+.square {
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+button {
+    background-color: #4a90e2;     /* blue base */
+    color: white;                  /* text color */
+    border: none;                  /* remove default border */
+    padding: 10px 18px;            /* space around text */
+    font-size: 16px;
+    border-radius: 6px;            /* rounded corners */
+    cursor: pointer;               /* pointer on hover */
+    transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+h1 {
+    color: #4a90e2;
+}
+
+#topbar {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+  
