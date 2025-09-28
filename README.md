@@ -5,3 +5,5 @@ A small etch a sketch-like web app I built in javascript. Makes each square a ra
 - Press **resize grid** to set grid size.
 - Hold mouse button and move to draw.
 - Press **reset grid** to clear.
+
+[https://samsinghh.github.io/etch-a-skech/](https://samsinghh.github.io/etch-a-skech/)
